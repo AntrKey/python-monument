@@ -1,0 +1,23 @@
+data = [ 
+{
+ "id": 1,
+ "name": "milk",
+ "price": 200,
+ "color": "#98B2D1",
+ "kind": "Food"
+},
+{
+ "id": 2,
+ "name": "banana", 
+ "price": 120, 
+ "color": "#C74375",
+ "kind": "Food"
+},
+{
+ "id": 3, 
+ "name": "battery", 
+ "price": 950, 
+ "color": "#BF1932",  
+ "kind": "Electronic products"
+}, 
+]
